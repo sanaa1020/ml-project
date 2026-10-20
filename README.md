@@ -44,13 +44,13 @@ The dataset is downloaded automatically in the notebook via
 1. **Clone the repository**
    ```bash
    git clone https://github.com/sanaa1020/ml-project
-   cd <repo-folder>
+   cd "<repo-folder>"
    ```
 
 2. **Create a virtual environment (recommended)**
    ```bash
    python3 -m venv .venv
-   mac: source .venv/bin/activate        # On Windows: .venv\Scripts\activate
+   .venv\Scripts\activate
    ```
 
 3. **Install the dependencies**
