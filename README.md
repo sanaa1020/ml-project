@@ -43,7 +43,7 @@ The dataset is downloaded automatically in the notebook via
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/sanaa1020/ml-project
    cd <repo-folder>
    ```
 
