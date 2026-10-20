@@ -1,6 +1,6 @@
-# Animal Species Classification 🐾
+# Animal Species Classification 
 
-A beginner-friendly machine learning project that predicts an animal's **species type**
+A beginner friendly machine learning project that predicts an animal's **species type**
 (mammal, bird, reptile, fish, amphibian, insect, or invertebrate) from simple
 observable traits such as whether it has hair, feathers, produces milk, lays eggs,
 breathes air, has a backbone, and how many legs it has.
@@ -50,7 +50,7 @@ The dataset is downloaded automatically in the notebook via
 2. **Create a virtual environment (recommended)**
    ```bash
    python3 -m venv .venv
-   source .venv/bin/activate        # On Windows: .venv\Scripts\activate
+   mac: source .venv/bin/activate        # On Windows: .venv\Scripts\activate
    ```
 
 3. **Install the dependencies**
